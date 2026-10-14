@@ -523,7 +523,7 @@ These are potential enhancements and should not be considered existing features 
 
 🎓 B.E. in Information Science and Engineering
 
-💻 Java Backend Development | Spring Boot | Spring Data JPA | PostgreSQL | REST APIs
+💻 Java Backend Development | Spring Boot | Spring Web | Spring Core | Spring Data JPA | Lombok | PostgreSQL | REST APIs
 
 🔗 **GitHub:** [@kalyanramps](https://github.com/kalyanramps)
 
